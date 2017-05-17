@@ -6,3 +6,4 @@
 *.so binary
 *.doc binary
 *.docx binary
+*.pdf binary
